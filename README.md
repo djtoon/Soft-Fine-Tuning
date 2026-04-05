@@ -1,6 +1,5 @@
 # AutoResearch Loop Template
 
-![logo](https://raw.githubusercontent.com/djtoon/Soft-Fine-Tuning/refs/heads/main/Group%2015.png){width=50px}
 An automated research/evolution loop that uses Claude Code to iteratively experiment, evaluate, and improve any project.
 
 ## How It Works
